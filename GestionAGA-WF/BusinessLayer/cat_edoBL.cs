@@ -8,7 +8,10 @@ using GestionAGA_WF.DataAccessLayer;
 
 namespace GestionAGA_WF.BusinessLayer
 {
-    public class cat_edoBL
+    /// <summary>
+    /// 
+    /// </summary>
+    public class cat_edoBL 
     {
         cat_edoDAL edodal = new cat_edoDAL();
 
