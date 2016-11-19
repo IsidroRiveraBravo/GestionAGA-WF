@@ -9,7 +9,7 @@ using GestionAGA_WF.DataAccessLayer;
 namespace GestionAGA_WF.BusinessLayer
 {
     /// <summary>
-    /// 
+    /// Catálogo de Estado
     /// </summary>
     public class cat_edoBL 
     {
