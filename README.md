@@ -1,2 +1,0 @@
-# GestionAGA-WF
-Gestión Documental 
